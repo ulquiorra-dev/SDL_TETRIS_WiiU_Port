@@ -24,8 +24,6 @@ int main(int argc, const char *argv[]) {
 
     init();
 
-    unsigned int emergency_out = 0;
-
     bool quit = false;    
 
     // Start SDL_Joystick
@@ -48,10 +46,8 @@ int main(int argc, const char *argv[]) {
 
         // Set to ~60 fps.
         // 1000 ms/ 60 fps = 1/16 s^2/frame
-        SDL_Delay(16);
+        SDL_Delay(16);        
         
-        emergency_out ++;
-        if (emergency_out > 30*60) quit = true;
     }
 
     return 0;

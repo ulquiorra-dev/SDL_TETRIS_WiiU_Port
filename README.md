@@ -7,6 +7,12 @@ Tetris for the WiiU !!!
 Original SDL code (Thanks for releasing the code):  
 https://github.com/dashed/tetris-sdl-c  
 
+## How to play
+**DPad** to move the tetromino  
+**A** to rotate the tetromino  
+**B** Instant Drop  
+**Y** Exit the game  
+
 ## Future of this repo
 Wiil be nice if I add sound, that will be a good way to improve the game and for me to learn more SDL2.
 
