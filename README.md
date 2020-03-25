@@ -8,7 +8,7 @@ Original SDL code (Thanks for releasing the code):
 https://github.com/dashed/tetris-sdl-c  
 
 ## Future of this repo
-Wiil be nice if I add sound, that will be a good way to improve the game and for me to learn more SDL2.
+Will be nice if I add sound, that will be a good way to improve the game and for me to learn more SDL2.
 
 ## Special Thanks
 
